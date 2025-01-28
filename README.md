@@ -1,1 +1,1 @@
-# datafun-03-project-setup
+# datafun-03-analytics
