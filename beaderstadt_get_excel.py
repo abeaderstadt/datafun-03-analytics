@@ -1,9 +1,6 @@
 """
 This example file fetches an Excel file from the web 
-and saves it to a local file named Fastfood_data.xlsx in a folder named beaderstadt_data.
-
-Please save a copy of the provided utils_logger.py file 
-in the same folder as this file.
+and saves it to a local file named fastfood_data.xlsx in a folder named beaderstadt_data.
 """
 
 #####################################
@@ -91,7 +88,7 @@ def main():
     """
     excel_url = 'https://raw.githubusercontent.com/abeaderstadt/datafun-03-analytics/main/FastFoodNutrition.xlsx'
     logger.info("Starting Excel fetch demonstration...")
-    fetch_excel_file(fetched_folder_name, "Fastfood_data.xlsx", excel_url)
+    fetch_excel_file(fetched_folder_name, "fastfood_data.xlsx", excel_url)
 
 #####################################
 # Conditional Execution
