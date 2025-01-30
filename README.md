@@ -16,9 +16,9 @@ Hint- Add your GitHub Repo URL
 
 4. Use Git to add, commit, and push your new files to GitHub using Commands:
 
-    git add .
-    git commit -m "Add .gitignore and requirements.txt files"
-    git push -u origin main
+git add .
+git commit -m "Add .gitignore and requirements.txt files"
+git push -u origin main
 
 Hint- Replace the commit message with a clear and descriptive note about what you added or changed. Wrap the commit message in double quotes.
 
@@ -51,7 +51,8 @@ Continue With the Repeatable Project Workflow
 5. Modify code and test functionality
 
 6. Save your work with git add-commit-push to GitHub using Commands:
-    git add .
-    git commit -m "Add .gitignore and requirements.txt files"
-    git push -u origin main
+
+git add .
+git commit -m "Add .gitignore and requirements.txt files"
+ git push -u origin main
 
