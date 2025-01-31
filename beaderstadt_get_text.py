@@ -88,7 +88,7 @@ def main():
     """
     txt_url = 'https://raw.githubusercontent.com/philipk19238/send-your-friends-the-script-from-the-bee-movie-one-word-at-a-time/refs/heads/master/script.txt'
     logger.info("Starting text fetch demonstration...")
-    fetch_txt_file(fetched_folder_name, "beemovie_script", txt_url)
+    fetch_txt_file(fetched_folder_name, "beemovie_script.txt", txt_url)
 
 #####################################
 # Conditional Execution
