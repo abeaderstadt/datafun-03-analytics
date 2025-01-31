@@ -1,5 +1,5 @@
 # DATAFUN-03-ANALYTICS PROJECT
-## This project demonstrates how to 'get' and 'process' CSV, Excel, Text, and JSON files using Python. The repository contains Python scripts ## designed to perform data analysis and processing tasks on various datasets.
+#### This project demonstrates how to 'get' and 'process' CSV, Excel, Text, and JSON files using Python. The repository contains Python scripts designed to perform data analysis and processing tasks on various datasets.
 
 ## Steps for Project Initialization
 ### 1. Create a New Repository From Scratch
