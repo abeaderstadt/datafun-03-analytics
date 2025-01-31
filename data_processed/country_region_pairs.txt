@@ -1,0 +1,250 @@
+Aruba: Americas
+Afghanistan: Asia
+Angola: Africa
+Anguilla: Americas
+Åland Islands: Europe
+Albania: Europe
+Andorra: Europe
+United Arab Emirates: Asia
+Argentina: Americas
+Armenia: Asia
+American Samoa: Oceania
+Antarctica: Antarctic
+French Southern and Antarctic Lands: Antarctic
+Antigua and Barbuda: Americas
+Australia: Oceania
+Austria: Europe
+Azerbaijan: Asia
+Burundi: Africa
+Belgium: Europe
+Benin: Africa
+Burkina Faso: Africa
+Bangladesh: Asia
+Bulgaria: Europe
+Bahrain: Asia
+Bahamas: Americas
+Bosnia and Herzegovina: Europe
+Saint Barthélemy: Americas
+Saint Helena, Ascension and Tristan da Cunha: Africa
+Belarus: Europe
+Belize: Americas
+Bermuda: Americas
+Bolivia: Americas
+Caribbean Netherlands: Americas
+Brazil: Americas
+Barbados: Americas
+Brunei: Asia
+Bhutan: Asia
+Bouvet Island: Antarctic
+Botswana: Africa
+Central African Republic: Africa
+Canada: Americas
+Cocos (Keeling) Islands: Oceania
+Switzerland: Europe
+Chile: Americas
+China: Asia
+Ivory Coast: Africa
+Cameroon: Africa
+DR Congo: Africa
+Republic of the Congo: Africa
+Cook Islands: Oceania
+Colombia: Americas
+Comoros: Africa
+Cape Verde: Africa
+Costa Rica: Americas
+Cuba: Americas
+Curaçao: Americas
+Christmas Island: Oceania
+Cayman Islands: Americas
+Cyprus: Europe
+Czechia: Europe
+Germany: Europe
+Djibouti: Africa
+Dominica: Americas
+Denmark: Europe
+Dominican Republic: Americas
+Algeria: Africa
+Ecuador: Americas
+Egypt: Africa
+Eritrea: Africa
+Western Sahara: Africa
+Spain: Europe
+Estonia: Europe
+Ethiopia: Africa
+Finland: Europe
+Fiji: Oceania
+Falkland Islands: Americas
+France: Europe
+Faroe Islands: Europe
+Micronesia: Oceania
+Gabon: Africa
+United Kingdom: Europe
+Georgia: Asia
+Guernsey: Europe
+Ghana: Africa
+Gibraltar: Europe
+Guinea: Africa
+Guadeloupe: Americas
+Gambia: Africa
+Guinea-Bissau: Africa
+Equatorial Guinea: Africa
+Greece: Europe
+Grenada: Americas
+Greenland: Americas
+Guatemala: Americas
+French Guiana: Americas
+Guam: Oceania
+Guyana: Americas
+Hong Kong: Asia
+Heard Island and McDonald Islands: Antarctic
+Honduras: Americas
+Croatia: Europe
+Haiti: Americas
+Hungary: Europe
+Indonesia: Asia
+Isle of Man: Europe
+India: Asia
+British Indian Ocean Territory: Africa
+Ireland: Europe
+Iran: Asia
+Iraq: Asia
+Iceland: Europe
+Israel: Asia
+Italy: Europe
+Jamaica: Americas
+Jersey: Europe
+Jordan: Asia
+Japan: Asia
+Kazakhstan: Asia
+Kenya: Africa
+Kyrgyzstan: Asia
+Cambodia: Asia
+Kiribati: Oceania
+Saint Kitts and Nevis: Americas
+South Korea: Asia
+Kosovo: Europe
+Kuwait: Asia
+Laos: Asia
+Lebanon: Asia
+Liberia: Africa
+Libya: Africa
+Saint Lucia: Americas
+Liechtenstein: Europe
+Sri Lanka: Asia
+Lesotho: Africa
+Lithuania: Europe
+Luxembourg: Europe
+Latvia: Europe
+Macau: Asia
+Saint Martin: Americas
+Morocco: Africa
+Monaco: Europe
+Moldova: Europe
+Madagascar: Africa
+Maldives: Asia
+Mexico: Americas
+Marshall Islands: Oceania
+North Macedonia: Europe
+Mali: Africa
+Malta: Europe
+Myanmar: Asia
+Montenegro: Europe
+Mongolia: Asia
+Northern Mariana Islands: Oceania
+Mozambique: Africa
+Mauritania: Africa
+Montserrat: Americas
+Martinique: Americas
+Mauritius: Africa
+Malawi: Africa
+Malaysia: Asia
+Mayotte: Africa
+Namibia: Africa
+New Caledonia: Oceania
+Niger: Africa
+Norfolk Island: Oceania
+Nigeria: Africa
+Nicaragua: Americas
+Niue: Oceania
+Netherlands: Europe
+Norway: Europe
+Nepal: Asia
+Nauru: Oceania
+New Zealand: Oceania
+Oman: Asia
+Pakistan: Asia
+Panama: Americas
+Pitcairn Islands: Oceania
+Peru: Americas
+Philippines: Asia
+Palau: Oceania
+Papua New Guinea: Oceania
+Poland: Europe
+Puerto Rico: Americas
+North Korea: Asia
+Portugal: Europe
+Paraguay: Americas
+Palestine: Asia
+French Polynesia: Oceania
+Qatar: Asia
+Réunion: Africa
+Romania: Europe
+Russia: Europe
+Rwanda: Africa
+Saudi Arabia: Asia
+Sudan: Africa
+Senegal: Africa
+Singapore: Asia
+South Georgia: Antarctic
+Svalbard and Jan Mayen: Europe
+Solomon Islands: Oceania
+Sierra Leone: Africa
+El Salvador: Americas
+San Marino: Europe
+Somalia: Africa
+Saint Pierre and Miquelon: Americas
+Serbia: Europe
+South Sudan: Africa
+São Tomé and Príncipe: Africa
+Suriname: Americas
+Slovakia: Europe
+Slovenia: Europe
+Sweden: Europe
+Eswatini: Africa
+Sint Maarten: Americas
+Seychelles: Africa
+Syria: Asia
+Turks and Caicos Islands: Americas
+Chad: Africa
+Togo: Africa
+Thailand: Asia
+Tajikistan: Asia
+Tokelau: Oceania
+Turkmenistan: Asia
+Timor-Leste: Asia
+Tonga: Oceania
+Trinidad and Tobago: Americas
+Tunisia: Africa
+Türkiye: Asia
+Tuvalu: Oceania
+Taiwan: Asia
+Tanzania: Africa
+Uganda: Africa
+Ukraine: Europe
+United States Minor Outlying Islands: Americas
+Uruguay: Americas
+United States: Americas
+Uzbekistan: Asia
+Vatican City: Europe
+Saint Vincent and the Grenadines: Americas
+Venezuela: Americas
+British Virgin Islands: Americas
+United States Virgin Islands: Americas
+Vietnam: Asia
+Vanuatu: Oceania
+Wallis and Futuna: Oceania
+Samoa: Oceania
+Yemen: Asia
+South Africa: Africa
+Zambia: Africa
+Zimbabwe: Africa
