@@ -1,4 +1,5 @@
-# datafun-03-analytics
+This repository contains Python scripts designed to perform data analysis and processing tasks on various datasets. The project focuses on working with CSV, Excel, Text, and JSON files. 
+
 
 Steps for Project Initialization
 
