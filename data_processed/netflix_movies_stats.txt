@@ -1,0 +1,5 @@
+Netflix Title Statistics:
+Minimum: 1925.00
+Maximum: 2021.00
+Mean: 2014.18
+Standard Deviation: 8.82
