@@ -12,7 +12,7 @@ import statistics
 from utils_logger import logger
 
 fetched_folder_name: str = "beaderstadt_data"
-processed_folder_name: str = "data_processed"
+processed_folder_name: str = "beaderstadt_processed"
 
 def analyze_release_year(file_path: pathlib.Path) -> dict:
     """Analyze the release year column from Netflix titles to calculate min, max, mean, and stdev."""
