@@ -61,7 +61,7 @@ def process_csv_file():
     output_file.parent.mkdir(parents=True, exist_ok=True)
     
     with output_file.open('w') as file:
-        file.write("Netflix Title Statistics:\n")
+        file.write("Netflix Title Release Year Statistics:\n")
         file.write(f"Minimum: {stats['min']:.2f}\n")
         file.write(f"Maximum: {stats['max']:.2f}\n")
         file.write(f"Mean: {stats['mean']:.2f}\n")
