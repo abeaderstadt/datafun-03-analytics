@@ -1,0 +1,1 @@
+The Company with the highest total calorie count is 'McDonald’s' with 93355.0 calories
