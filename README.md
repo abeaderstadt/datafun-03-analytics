@@ -1,6 +1,8 @@
 # DATAFUN-03-ANALYTICS PROJECT
 #### This project demonstrates how to 'get' and 'process' CSV, Excel, Text, and JSON files using Python. The repository contains Python scripts designed to perform data analysis and processing tasks on various datasets.
 
+---
+
 ## Steps for Project Initialization
 ### 1. Create a New Repository From Scratch
 Start by creating a new repository on GitHub. You can follow GitHub's instructions for creating a repository.
@@ -27,6 +29,7 @@ git push
 Create a local Python virtual environment for your project using the following command:
 py -m venv .venv
 
+---
 
 ## Continue With the Repeatable Project Workflow
 ### 1. Pull the Latest Changes from GitHub
@@ -54,25 +57,25 @@ git add .
 git commit -m "Description of changes"
 git push -u origin main
 
-
+---
 
 ## Summary of Common Commands
-# Clone the repository
+### Clone the repository
 git clone https://github.com/youraccount/yourrepo
 
-# Add and commit files
+### Add and commit files
 git add .
 git commit -m "Description of changes"
 git push -u origin main
 
-# Create a virtual environment
+### Create a virtual environment
 py -m venv .venv
 
-# Activate the virtual environment
+### Activate the virtual environment
 .venv\Scripts\activate
 
-# Install dependencies
+### Install dependencies
 py -m pip install -r requirements.txt
 
-# Pull the latest changes from GitHub
+### Pull the latest changes from GitHub
 git pull origin main
